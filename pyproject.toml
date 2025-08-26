@@ -1,7 +1,7 @@
 [project]
 name = "trial1"
 version = "0.1.0"
-description = "Add your description here"
+description = "My Description"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
